@@ -26,7 +26,7 @@ highlight  TODO               guifg=#000000  guibg=#ffffff  gui=NONE
 highlight  Directory          guifg=#000000  guibg=#ffffff  gui=NONE
 
 highlight  Search             guifg=#424242  guibg=#C3E9DB  gui=bold
-highlight  IncSearch          guifg=#424242  guibg=#C3E9DB  gui=bold
+highlight  IncSearch          guifg=#424242  guibg=#B7C9E2  gui=bold  "#7BC8F6 #BDF6FE
 highlight  WildMenu           guifg=#424242  guibg=#EEEEEE
 
 highlight  Folded             guifg=#080808  guibg=#EEEEEE  gui=bold
