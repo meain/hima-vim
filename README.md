@@ -5,4 +5,6 @@
 
 <br>
 
-![screenshot](https://images.meain.io/dump/1592300808.png)
+| ![light](https://images.meain.io/dump/1592718375.png) | ![dark](https://images.meain.io/dump/1592718344.png) |
+| :---------------------------------------------------: | :--------------------------------------------------: |
+|                         hima                          |                      hima-dark                       |
