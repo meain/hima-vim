@@ -1,6 +1,7 @@
 rm -rf images && mkdir images
 printf "|\n|\n|" >images/table.md
-
+timeout 20 alacritty --position 0 0 -d 700 305 &
+sleep 5
 shoot() {
     echo "$2"
     (alacritty --position 200 200 -d 70 35 -e "$SHELL" -c "nvim ~/.dotfiles/scripts/.bin/note \
@@ -9,6 +10,7 @@ shoot() {
         -c ':normal! 0'") &
     PR_PID=$!
     sleep 3
+
     screencapture -R 100,100,525,613 "images/$2.png"
 
     kill -9 $PR_PID
@@ -26,7 +28,7 @@ shoot() {
 }
 
 setdarkmode light
-shoot "light" "light"
+shoot "light" "hima"
 setdarkmode dark
-shoot "dark" "dark"
+shoot "dark" "hima-dark"
 setdarkmode light
