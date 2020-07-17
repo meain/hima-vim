@@ -29,6 +29,7 @@ shoot() {
 
 setdarkmode light
 shoot "light" "hima"
+shoot "light" "hima-plain"
 setdarkmode dark
 shoot "dark" "hima-dark"
-setdarkmode light
+shoot "dark" "hima-plain-dark" setdarkmode light
