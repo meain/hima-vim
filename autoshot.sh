@@ -1,10 +1,11 @@
 rm -rf images && mkdir images
 printf "|\n|\n|" >images/table.md
-timeout 20 alacritty --position 0 0 -d 700 305 &
+timeout 50 alacritty --position 0 0 -d 700 305 &
 sleep 5
 shoot() {
     echo "$2"
     (alacritty --position 200 200 -d 70 35 -e "$SHELL" -c "nvim ~/.dotfiles/scripts/.bin/note \
+        -c ':colo $2' \
         -c ':normal! gg' \
         -c ':silent! /open_note' \
         -c ':normal! 0'") &

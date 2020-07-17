@@ -5,6 +5,6 @@
 
 <br>
 
-| ![](https://i.imgur.com/v0rwOwp.png) | ![](https://i.imgur.com/2KcR44p.png) |
-| :----------------------------------: | :----------------------------------: |
-|                 hima                 |              hima-dark               |
+| ![](https://i.imgur.com/FWJyVFe.png) | ![](https://i.imgur.com/hMni7kY.png) | ![](https://i.imgur.com/Nm2aRCr.png) | ![](https://i.imgur.com/Y0i5H7b.png) |
+| :----------------------------------: | :----------------------------------: | :----------------------------------: | :----------------------------------: |
+|                 hima                 |              hima-plain              |              hima-dark               |           hima-plain-dark            |
