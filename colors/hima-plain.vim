@@ -58,3 +58,4 @@ highlight  PmenuSel           ctermfg=255    ctermbg=234    guifg=#EEEEEE  guibg
 highlight  ColorColumn        ctermbg=254    guibg=#E4E4E4
 highlight  Underlined         ctermfg=246    ctermbg=NONE   guifg=#949494  cterm=underline  term=underline  gui=underline
 highlight  SpellBad           cterm=underline gui=underline ctermfg=11 guifg=#ffaf00
+highlight  NormalFloat       ctermfg=235    ctermbg=252    guifg=#424242  guibg=#D5E9EA
