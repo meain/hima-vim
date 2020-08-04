@@ -6,24 +6,24 @@ endif
 let g:colors_name = 'hima-plain'
 
 highlight  Normal             guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Title              guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Special            guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Comment            guifg=#999999  guibg=#ffffff  gui=NONE
-highlight  Constant           guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  String             guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Number             guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  htmlTagName        guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Identifier         guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Statement          guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Boolean            guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  PreProc            guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Type               guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Function           guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Repeat             guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Operator           guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Error              guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  TODO               guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  Directory          guifg=#000000  guibg=#ffffff  gui=NONE
+highlight  Title              guifg=#000000  guibg=NONE  gui=NONE
+highlight  Special            guifg=#000000  guibg=NONE  gui=NONE
+highlight  Comment            guifg=#999999  guibg=NONE  gui=NONE
+highlight  Constant           guifg=#000000  guibg=NONE  gui=NONE
+highlight  String             guifg=#000000  guibg=NONE  gui=NONE
+highlight  Number             guifg=#000000  guibg=NONE  gui=NONE
+highlight  htmlTagName        guifg=#000000  guibg=NONE  gui=NONE
+highlight  Identifier         guifg=#000000  guibg=NONE  gui=NONE
+highlight  Statement          guifg=#000000  guibg=NONE  gui=NONE
+highlight  Boolean            guifg=#000000  guibg=NONE  gui=NONE
+highlight  PreProc            guifg=#000000  guibg=NONE  gui=NONE
+highlight  Type               guifg=#000000  guibg=NONE  gui=NONE
+highlight  Function           guifg=#000000  guibg=NONE  gui=NONE
+highlight  Repeat             guifg=#000000  guibg=NONE  gui=NONE
+highlight  Operator           guifg=#000000  guibg=NONE  gui=NONE
+highlight  Error              guifg=#000000  guibg=NONE  gui=NONE
+highlight  TODO               guifg=#000000  guibg=NONE  gui=NONE
+highlight  Directory          guifg=#000000  guibg=NONE  gui=NONE
 
 highlight  Search             guifg=#424242  guibg=#C3E9DB  gui=bold
 highlight  IncSearch          guifg=#424242  guibg=#B7C9E2  gui=bold  "#7BC8F6 #BDF6FE
@@ -31,9 +31,9 @@ highlight  WildMenu           guifg=#424242  guibg=#EEEEEE
 
 highlight  Folded             guifg=#080808  guibg=#EEEEEE  gui=bold
 highlight  QuickFixLine       guifg=#080808  guibg=#EEEEEE  gui=bold
-highlight  SignColumn         guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  LineNr             guifg=#000000  guibg=#ffffff  gui=NONE
-highlight  VertSplit          guifg=#444444  guibg=#ffffff  gui=NONE
+highlight  SignColumn         guifg=#000000  guibg=NONE  gui=NONE
+highlight  LineNr             guifg=#000000  guibg=NONE  gui=NONE
+highlight  VertSplit          guifg=#444444  guibg=NONE  gui=NONE
 highlight  CursorLine         guibg=#f5f5f5  gui=NONE       cterm=NONE
 highlight  StatusLineNC       guibg=#cecece  gui=NONE       cterm=NONE
 
