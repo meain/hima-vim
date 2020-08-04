@@ -3,7 +3,7 @@ highlight clear
 if exists('syntax on')
   syntax reset
 endif
-let g:colors_name = 'hima'
+let g:colors_name = 'hima-dark'
 
 highlight  Normal             guifg=#ffffff  guibg=#1f1f1f  gui=NONE
 highlight  Title              guifg=#ffffff  guibg=#1f1f1f  gui=NONE
