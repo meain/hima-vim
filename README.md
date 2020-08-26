@@ -1,6 +1,6 @@
 <h1 align="center">hima</h1>
 <p align="center">
-<i>Minimal colorschme with good GUI element colors.</i>
+  <i>Minimal vim colorscheme with good GUI element colors.</i>
 </p>
 
 <br>
