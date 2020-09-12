@@ -59,3 +59,10 @@ highlight  ColorColumn        ctermbg=254    guibg=#E4E4E4
 highlight  Underlined         ctermfg=246    ctermbg=NONE   guifg=#949494  cterm=underline  term=underline  gui=underline
 highlight  SpellBad           cterm=underline gui=underline ctermfg=11 guifg=#ffaf00
 highlight  NormalFloat       ctermfg=235    ctermbg=252    guifg=#424242  guibg=#F1F1F1
+
+" Treesitter changes
+" https://github.com/nvim-treesitter/nvim-treesitter/blob/master/plugin/nvim-treesitter.vim
+highlight default link TSParameter Normal
+highlight default link TSField Normal
+highlight default link TSProperty Normal
+" highlight default link TSMethod Normal
