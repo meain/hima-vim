@@ -41,7 +41,6 @@ highlight  MoreMsg            guifg=#424242  guibg=#EEEEEE
 highlight  WarningMsg         guifg=#FF5F00  guibg=#EEEEEE
 highlight  ErrorMsg           guifg=#E41D91  guibg=#EEEEEE  gui=italic
 highlight  Visual             guifg=#424242  guibg=#C1E7F4
-highlight  SpecialKey
 highlight  NonText            guifg=#EEEEEE  guibg=NONE
 highlight  MatchParen         guifg=#1C1C1C  guibg=#DADADA  gui=bold
 highlight  Pmenu              guifg=#424242  guibg=#D0D0D0
